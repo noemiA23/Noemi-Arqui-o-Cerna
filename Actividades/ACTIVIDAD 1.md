@@ -19,3 +19,27 @@
  <p align="light"> 
   <img src="https://i.postimg.cc/vZstGKtL/IP-PCB.jpg)](https://postimg.cc/qz13LjYz)" alt="FOTO ODS 7" width="600px" />
 </p>
+
+
+#**Envio de ...**
+
+PCA-PCB
+
+ <p align="light"> 
+  <img src="https://i.postimg.cc/h4mmhrjC/SMS-PCA-PCB.jpg)](https://postimg.cc/MXWHF11R)" alt="FOTO ODS 7" width="600px" />
+</p>
+
+
+PCB-PCA
+
+ <p align="light"> 
+  <img src="https://i.postimg.cc/XqKXLsB4/SMS-PCB-PCA.jpg)](https://postimg.cc/QKtXxkqy)" alt="FOTO ODS 7" width="600px" />
+</p>
+
+
+
+
+
+
+
+
