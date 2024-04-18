@@ -4,7 +4,7 @@ Preguntas
  Seria diferente dirección ip porque el envío de mensaje es a diferentes destinos.
  
 2.	**¿Cuáles crees que serían las consecuencias si no hubiera estándares de protocolo acordados para los diferentes métodos de comunicación?**
-   
+   Sería lo mismo porque los estandares ya estan establecidos
 
  Si no hay estándares de protocolos acordados se perdería la comunicación y habría una saturación al enviar, procesar y recibir mensajes al usuario.
  
