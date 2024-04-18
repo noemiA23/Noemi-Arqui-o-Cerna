@@ -1,18 +1,9 @@
 # Actividad: Repaso de protocolos 
 
-| Requisito del protocolo   | ¿Qué significa esto?   | ¿Cómo se implementa en su protocolo?  |
-| :------------ |:---------------:| -----:|
-| Un emisor y un receptor identificados | ¿Cómo sabe de quién es el mensaje de texto? ¿Cómo sabe la persona en el otro extremo que usted recibió el mensaje? ¿Va dirigido a una persona o a un grupo?  |En mensajería de texto, el emisor y el receptor generalmente se identifican por el número de teléfono, el nombre de usuario o el apodo. Los mensajes de texto se pueden enviar a un grupo predefinido o a grupos nuevos que se crean según la necesidad.  |
-| Un método de comunicación acordado |  ¿Solo enviamos texto? ¿Enviamos y recibimos fotos? Y los emoticones y emoji? | se puede enviar archivos también con el protocolo TPC 
-   |   En el envío del texto, recibimiento de fotos y los emoticones se identifican por la dirección ip de los mensajes |  Aquí podemos utilizar RLTP para traducir idiomas.
-| Idioma y gramática común  |  
-| Velocidad y momento de entrega |    •	Ruta del mensaje,	Velocidad del internet,	Ruta que va el mensaje, Señales de dispositivos 4g y 5g. |
-| Requisitos de confirmación o acuse de recibo  |    ¿Cómo sabe que se recibió el mensaje? ¿Cómo sabe que la conversación terminó?  |
-                
-
-
-
-
+ <p align="center"> 
+  <img src="https://i.postimg.cc/cHS11R7C/Imagen-de-Whats-App-2024-04-18-a-las-16-22-11-03466aa1.jpg)](https://postimg.cc/LqxFNZbF)" alt="FOTO ODS 7" width="600px" />
+</p>
+  
 
 
 
