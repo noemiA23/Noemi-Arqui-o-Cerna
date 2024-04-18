@@ -21,6 +21,6 @@
   	
 4.	**Comparte las reglas de protocolo con tus compañeros de equipo. ¿Hay diferencias entre tus protocolos y los de ellos? Si es así, ¿podrían estas diferencias producir malentendidos de los mensajes?**
 
-Sí, hubbo ciertas diferencias ya que cada compañero tiene su forma de prsentar las reglas de protocolos y asignaciones.
+Sí, hubo ciertas diferencias ya que cada compañero tiene su forma de prsentar las reglas de protocolos y asignaciones.
 
  
