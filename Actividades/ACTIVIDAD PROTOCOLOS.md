@@ -6,9 +6,16 @@
 | Un método de comunicación acordado |  ¿Solo enviamos texto? ¿Enviamos y recibimos fotos? Y los emoticones y emoji? 
    |   En el envío del texto, recibimiento de fotos y los emoticones se identifican por la dirección ip de los mensajes |
 | Idioma y gramática común  |  ¿Usamos acrónimos? ¿Es aceptable el argot? ¿Cuál es el idioma materno de los participantes?  |  [![temporizador-de-manguera-inteligente.jpg](https://i.postimg.cc/fyJkKTrX/temporizador-de-manguera-inteligente.jpg)](https://postimg.cc/30QKr77J) US$49.99
-| Velocidad y momento de entrega |    ¿Qué determina con qué velocidad llega el mensaje al destinatario? ¿Con qué velocidad esperamos recibir una respuesta?  |[![ferrtirrigaci-n1.jpg](https://i.postimg.cc/76BpgSdH/ferrtirrigaci-n1.jpg)](https://postimg.cc/YGWn7LtZ) US$82.12 
+| Velocidad y momento de entrega |    •	Ruta del mensaje •	Velocidad del internet •	Ruta que va el mensaje •	Señales de dispositivos 4g y 5g.
+
 | Requisitos de confirmación o acuse de recibo  |    ¿Cómo sabe que se recibió el mensaje? ¿Cómo sabe que la conversación terminó?  |[![ferrtirrigaci-n1.jpg](https://i.postimg.cc/76BpgSdH/ferrtirrigaci-n1.jpg)](https://postimg.cc/YGWn7LtZ) US$82.12
                 
+
+
+
+
+
+
 
 
 1.	**Ahora que anotaste los protocolos que usan el enviar y leer mensajes de texto, ¿crees que estos protocolos serían los mismos si estuviera escribiendo a amigos que si estuviera escribiendo a sus padres o profesores? Explica tu respuesta.** 
